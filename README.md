@@ -1,7 +1,21 @@
-<html><body><h1><font color="red">What is facial recognition?</font></h1>
-Facial recognition technology has spread prodigiously. It’s there on Facebook, tagging photos from the class reunion, your cousin’s wedding and the office summer party. Google, Microsoft, Apple and others have built it into apps to compile albums of people who hang out together.
+# How does facial recognition work ?
+Facial recognition is an advanced technology that helps in discerning and identifying human faces from an image or video. A system employed to perform facial recognition uses biometrics to map facial features from the photo or video. It compares this information with a large database of recorded faces to find a correct match.
+Facial recognition is touted to be one of the top 3 methods of biometric recognition to identify people by measuring some aspect of individual physiology or anatomy. Facial recognition is the fastest-growing biometric technology and is expected to grow to $7.7 billion by 2022. This is because facial recognition has a wide range of commercial applications and is relatively simple to set up. It can be used for everything from surveillance to targeted marketing.
 
-It verifies who you are at airports and is the latest biometric to unlock your mobile phone where facial recognition apps abound. Need to confirm your identity for a £1,000 bank transfer? Just look into the camera.
+# History of Facial Recognition-;
+Facial recognition technology gained popularity in the early 1990s when the United States Department of Defense was seeking a technology that could spot criminals who furtively crossed borders. The Defense Department roped in eminent university scientists and experts in the field of facial recognition for this purpose by providing them with research financing.
 
-New applications crop up all the time. Want to know who’s at the door? A video doorbell with facial recognition will tell you, provided you’ve uploaded a photo of the person’s face. Other systems are used to spot missing persons and catch slackers who lie about the hours they spend in the office. Advertisers, of course, are in on the act. Thanks to facial recognition, billboards can now serve up ads based on an estimate of your sex, age and mood.
-</body></html>
+Facial recognition made bold headlines in early 2001 immediately after it was first used in a public space—at Super Bowl XXXV in Tampa—by the law enforcement authorities to search for criminals and terrorists among the crowd of thousands of spectators. Soon after that, facial recognition systems were installed in other sensitive parts of the US to keep track of felonious activities.
+
+Although facial recognition is the fastest-growing biometric technology, it also happens to be the most controversial. After the 9/11 tragedy, many people supported the use of this new technology, but as the technology made deeper inroads to our lives, many realized that it could pose a threat to individual privacy and could also potentially lead to identity theft. No matter which side of this debate you’re on, it is worth knowing how this fast-growing technology works and what it can do.
+
+# How Facial Recognition Works ?
+A facial recognition setup consists of advanced cameras that capture photos of people who pose or simply walk by, and sophisticated software working on those pictures will attempt to find the right match from the vast database to identify the person(s) in the image. Now, let’s take a closer look at the technical details of how these systems work.
+
+# Basic steps in facial identification
+As mentioned earlier, facial recognition methods vary slightly, depending on the application and manufacturer, but they generally involve a series of steps that serve to capture, process, analyze and match the captured face to a database of recorded images. These basic steps are:
+ 1. Detection:When the facial recognition system is attached to a video surveillance system, the recognition software scans the field of view of the camera for what it detects as faces. Upon the detection of each face-like image on a head-shaped form, it sends the face to the system to process it further. The system then estimates the head’s position, orientation, and size. Generally, a face needs to be turned at least 35 degrees toward the camera for the camera to detect it.
+2. Normalization: The image of the captured face is scaled and rotated so that it can be registered and mapped into an appropriate pose and size. This is called normalization. After normalization, the software reads the geometry of the face by determining key factors, include the distance between the eyes, the thickness of the lips, the distance between the chin and the forehead, and many others. Some advanced face recognition systems use hundreds of such factors. The result of this processing leads to the generation of what is called a facial signature.
+3. a unique code. This coding facilitates easier computational comparison of the newly acquired facial data to stored databases of previously recorded facial data.
+Matching: This is the final stage in which newly acquired facial data is compared to the stored data; if it matches with one of the images in the database, the software returns the details of the matched face and notifies the end user.
+
