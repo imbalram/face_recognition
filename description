@@ -1,6 +1,4 @@
-<html><body>
- <h1>
-  <font color="red">How does facial recognition work ?</font></h1>
+# How does facial recognition work ?
 Facial recognition is an advanced technology that helps in discerning and identifying human faces from an image or video. A system employed to perform facial recognition uses biometrics to map facial features from the photo or video. It compares this information with a large database of recorded faces to find a correct match.
 Facial recognition is touted to be one of the top 3 methods of biometric recognition to identify people by measuring some aspect of individual physiology or anatomy. Facial recognition is the fastest-growing biometric technology and is expected to grow to $7.7 billion by 2022. This is because facial recognition has a wide range of commercial applications and is relatively simple to set up. It can be used for everything from surveillance to targeted marketing.
 
@@ -20,5 +18,4 @@ As mentioned earlier, facial recognition methods vary slightly, depending on the
 2. Normalization: The image of the captured face is scaled and rotated so that it can be registered and mapped into an appropriate pose and size. This is called normalization. After normalization, the software reads the geometry of the face by determining key factors, include the distance between the eyes, the thickness of the lips, the distance between the chin and the forehead, and many others. Some advanced face recognition systems use hundreds of such factors. The result of this processing leads to the generation of what is called a facial signature.
 3. a unique code. This coding facilitates easier computational comparison of the newly acquired facial data to stored databases of previously recorded facial data.
 Matching: This is the final stage in which newly acquired facial data is compared to the stored data; if it matches with one of the images in the database, the software returns the details of the matched face and notifies the end user.
-</body>
-</font>
+
